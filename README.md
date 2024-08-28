@@ -1,4 +1,5 @@
 # Software Developer
+Coding for the web.
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-gray?plastic?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/TypeScript-gray?plastic?style=for-the-badge&logo=typescript)
@@ -16,51 +17,42 @@
 ![Static Badge](https://img.shields.io/badge/HTML-gray?plastic?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/Tailwind-gray?plastic?style=for-the-badge&logo=tailwindcss)
 
-Specialized in Web Development using TypeScript, React and Golang.
+**TypeScript, JavaScript, Golang, Go, Storybook, React.js, Next.js, Node.js, HTML, CSS, Linux, AI, CI/CD Pipelines, Github Actions automation workflows, Git, REST/GraphQL APIs, HTTP, Docker containers, PostgreSQL/MySQL databases, Unit and Integration testing, React Testing Library, Vitest, Playwright.**
 
-- TypeScript / JavaScript / ES6+
-- React.js 
+Building with Typescript
+- React.js
+- Next.js
+- TailwindCSS
+  
+Creating UI Component libraries with reusable components, styles and tokens.
+Connecting code and design using Storybook and Figma, development without interference of backend logic.
+
+UI, Unit and Integration, regression testing.
+- Vitest
+- Jest
+- Testing library
+- Playwright
+- Storybook
+
+Vite.js / Webpack module bundlers
+
+**UI/UX** designing consistent, semantic, beautiful, accesible and user-centric Web App experiences.
+
+## Backend development
 - Golang
+- JavaScript
 
-## Frontend
-Building using mostly React.js and Next.js, connecting code and design using Storybook as a Workshop for development without interference of business logic.
+Contributing and building Web Servers, CI/CD pipelines using Docker for portability, consistency and deployment.
+Creating and consuming APIs - REST, GraphQL, WebSockets, Web APIs, etc.
+- Github Actions automation workflows
+- Go Concurrency patterns
 
-- React / Next.js
-- Astro
-- MDX
-- Storybook Workshop
-- Vite.js / Webpack module bundler
-- Tailwind CSS
-- Mock Service Worker
-- Slack / Trello / Asana for Collaboration
-- Miro Visual Collaboration
+## Data management
+- SQL
+- MySQL, PostgreSQL Databases
+- Auth workflows OAuth 2.0 
+- JWT / Sessions
+- OpenID Connect
+- Clerk
+- Postman
 
-Performance optimization using JS and React
-- Web Workers nodes
-- Expensive renders optimization using React Hooks useMemo (Memoization) and useCallback.
-- Code Splitting with Suspense and Lazy loading
-
-Accessibility optimization
-- Using Radix Library for unstyled, accessible and open-source React Primitives. 
-- Using Aria-attributes / WAI-ARIA
-- Semantic HTML
-- Following WCAG 2.0 ( Web Content Accessibility Guidelines 2.0 )
-- A11y Project Checklist.
-
-## Backend
-Development of backend systems, business logic, APIs and Data management.
-HTTP Web Servers managing network requests, CORS, building and consuming REST and GraphQL APIs like Stripe, Shopify. MySQL/PostgreSQL Databases.
-- Go
-- node.js
-- Postman API Platform.
-
-Building CI/CD pipelines using
-- Docker / docker-compose
-- Github Actions
-
-## Design
-UI/UX design abilities to create consistent, semantic, beautiful and accesible Web App experiences. 
-Improving designs and applications iterating using data, user feedback and content first approach.
-
-- Figma
-- Photoshop / Illustrator
