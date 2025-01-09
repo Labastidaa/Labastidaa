@@ -1,5 +1,4 @@
 # Software Developer
-Coding for the web.
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-gray?plastic?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/TypeScript-gray?plastic?style=for-the-badge&logo=typescript)
@@ -17,42 +16,19 @@ Coding for the web.
 ![Static Badge](https://img.shields.io/badge/HTML-gray?plastic?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/Tailwind-gray?plastic?style=for-the-badge&logo=tailwindcss)
 
-**TypeScript, JavaScript, Golang, Go, Storybook, React.js, Next.js, Node.js, HTML, CSS, Linux, AI, CI/CD Pipelines, Github Actions automation workflows, Git, REST/GraphQL APIs, HTTP, Docker containers, PostgreSQL/MySQL databases, Unit and Integration testing, React Testing Library, Vitest, Playwright.**
+Using technologies that help us build efficient, semantic and scalable solutions.
 
-Building with Typescript
-- React.js
-- Next.js
-- TailwindCSS
-  
-Creating UI Component libraries with reusable components, styles and tokens.
-Connecting code and design using Storybook and Figma, development without interference of backend logic.
+-   UI/UX Design
+-   Frontend implementations: building interfaces and UI component libaries.
+-   Design system: Shared tokens and styles using Figma, React.js and Tailwindcss.
+
+Connecting code and design without backend logic interference using Storybook.
 
 UI, Unit and Integration, regression testing.
-- Vitest
-- Jest
-- Testing library
-- Playwright
-- Storybook
-
-Vite.js / Webpack module bundlers
-
 **UI/UX** designing consistent, semantic, beautiful, accesible and user-centric Web App experiences.
 
-## Backend development
-- Golang
-- JavaScript
+Backend using CI/CD pipelines, Cloud and local servers, Docker, Automation workflows.
+REST, GraphQL, WebSockets, Web APIs and more.
 
-Contributing and building Web Servers, CI/CD pipelines using Docker for portability, consistency and deployment.
-Creating and consuming APIs - REST, GraphQL, WebSockets, Web APIs, etc.
-- Github Actions automation workflows
-- Go Concurrency patterns
 
-## Data management
-- SQL
-- MySQL, PostgreSQL Databases
-- Auth workflows OAuth 2.0 
-- JWT / Sessions
-- OpenID Connect
-- Clerk
-- Postman
-
+**TypeScript, JavaScript, Python, Golang, Go, Storybook, React.js, Next.js, Node.js, HTML, CSS, Linux, CI/CD Pipelines, Github Actions automation workflows, Git, REST/GraphQL APIs, HTTP, Docker containers, PostgreSQL/MySQL databases, Unit and Integration testing.**
